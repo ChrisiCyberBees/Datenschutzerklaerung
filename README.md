@@ -18,8 +18,8 @@ Die Verarbeitung von Discord-Daten durch uns findet ausschließlich innerhalb de
 ### Haben sie Offene Fragen?
 Wenn ja dann können sie Diese über unseren Support-Server stellen; er ist direkt via Einladungslink (https://discord.gg/ThPf9zPTtm) erreichbar. Sie können unter weiteren Kontaktmöglichkeiten ereichen
 
-Discord: **Alexanderr#6344** (`958074686661603410`)
-E-Mail: ChrisiCyberBees@gmx.net
-Website: -
+- Discord: **Alexanderr#6344** (`958074686661603410`)
+- E-Mail: ChrisiCyberBees@gmx.net
+- Website: -
 
 © COPYRIGHT 2022 by Cyber Bee's
