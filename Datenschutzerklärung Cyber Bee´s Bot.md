@@ -16,7 +16,7 @@ Die Verarbeitung von Discord-Daten durch uns findet ausschließlich innerhalb de
 - Wir sammeln die Benutzer-IDs von Personen die das Temp- und Ticket-System auf Servern einrichten.
 
 ### Haben sie Offene Fragen?
-Wenn ja dann können sie Diese über unseren Support-Server stellen; er ist direkt via Einladungslink (https://discord.gg/ThPf9zPTtm) erreichbar. Sie können unter weiteren Kontaktmöglichkeiten ereichen
+Wenn ja dann können sie Diese über unseren Support-Server stellen; er ist direkt via Einladungslink (https://discord.gg/ThPf9zPTtm) erreichbar. Außerdem können Sie uns unter weiteren Kontaktmöglichkeiten ereichen
 
 - Discord: **Alexanderr#6344** (`958074686661603410`)
 - E-Mail: ChrisiCyberBees@gmx.net
