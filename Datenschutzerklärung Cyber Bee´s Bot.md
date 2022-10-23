@@ -1,5 +1,5 @@
 ## Datenschutzerklärung Cyber Bee´s Bot
-Diese Datenschutzerklärung gilt nur für den öffentlichen Discord-Bot **~Cyber Bee´s Bot#5245~** (`1018547121500205188`) des Cyber Bee's Team. Mit Änderungen an diesem Bot werden wir diese Datenschutzerklärung bei Bedarf aktualisieren. 
+Diese Datenschutzerklärung gilt nur für den öffentlichen Discord-Bot **~Cyber Bee´s Bot#5245~** (`1018547121500205188`) des Cyber Bee's Team. Mit Änderungen an diesem Bot werden wir diese Datenschutzerklärung bei Bedarf aktualisiert. 
 
 ### Allgemeines
 Die Daten unsere Bot Nutzer haben einen hohen Stellenwert für uns. Diese Datenschutzrichtlinie enthält Arten von Informationen, die vom Cyber Bee´s Bot gesammelt und aufgezeichnet werden, und wie wir sie verwenden.
