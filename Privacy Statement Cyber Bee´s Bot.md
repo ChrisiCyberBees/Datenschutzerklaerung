@@ -1,4 +1,4 @@
-## Privacy Statement Cyber Bee´s Bot
+## Privacy Policy Cyber Bee´s Bot
 This privacy policy applies only to the public Discord bot **~Cyber Bee´s Bot#5245~** (`1018547121500205188`) of the Cyber Bee's Team. With changes to this bot, we will update this privacy statement as necessary.
 
 ## General
