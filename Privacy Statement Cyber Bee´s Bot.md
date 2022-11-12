@@ -13,6 +13,7 @@ The processing of Discord data by us takes place exclusively within the framewor
 ## What data can be collected by us?
 - We collect server IDs from servers that use the bot, the upcoming ticket system and music system located in the BETA.
 - We collect the user IDs of people who set up the temp and ticket system on servers.
+- We collect user IDs from users using the Economy system.
 
 ### Do you have any open questions?
 If so, you can place these via our support server; it can be reached directly via the invitation link (https://discord.gg/ThPf9zPTtm). You can also contact us at other contact options
