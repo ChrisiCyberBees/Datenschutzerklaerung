@@ -14,6 +14,7 @@ Die Verarbeitung von Discord-Daten durch uns findet ausschließlich innerhalb de
 
 - Wir sammeln Server-IDs von Servern, die den Bot, das kommende in der BETA befinde Ticket-System und Musik-System verwenden.
 - Wir sammeln die Benutzer-IDs von Personen die das Temp- und Ticket-System auf Servern einrichten.
+- Wir sammeln die Benutzer-IDs von Nutzer die das Economy-System nutzen.
 
 ### Haben sie Offene Fragen?
 Wenn ja dann können sie Diese über unseren Support-Server stellen; er ist direkt via Einladungslink (https://discord.gg/ThPf9zPTtm) erreichbar. Außerdem können Sie uns unter weiteren Kontaktmöglichkeiten ereichen
