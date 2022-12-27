@@ -24,6 +24,6 @@ Wenn ja dann können sie Diese über unseren Support-Server stellen; er ist dire
 
 - Discord: **NONameALΞX#6344** (`958074686661603410`)
 - E-Mail: ChrisiCyberBees@gmx.net
-- Website:
+- Website: -
 
 © COPYRIGHT 2022 by Cyber Bee's
