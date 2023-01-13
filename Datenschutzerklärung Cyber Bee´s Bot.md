@@ -26,4 +26,4 @@ Wenn ja dann können sie Diese über unseren Support-Server stellen; er ist dire
 - E-Mail: ChrisiCyberBees@gmx.net
 - Website: -
 
-© COPYRIGHT 2022 by Cyber Bee's
+© COPYRIGHT 2023 by Cyber Bee's
