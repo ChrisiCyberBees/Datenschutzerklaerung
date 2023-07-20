@@ -12,15 +12,16 @@ Die Verarbeitung von Discord-Daten durch uns findet ausschließlich innerhalb de
 
 ### Welche Daten können durch uns erfasst werden?
 
-- Wir sammeln Server-IDs von Servern, die den Bot, das kommende in der BETA befinde Ticket-System und Musik-System verwenden.
-- Wir sammeln die Benutzer-IDs von Personen die das Temp- und Ticket-System auf Servern einrichten.
-- Wir sammeln die Benutzer-IDs von Nutzer die das Economy-System nutzen.
+- Wir sammeln Server-IDs von Servern, die den Bot, das kommende Ticket-System in der BETA und das Musik-System verwenden.
+- Wir sammeln die Benutzer-IDs von Personen, die das Temp- und Ticket-System auf Servern einrichten.
+- Wir sammeln die Benutzer-IDs von Nutzern, die das Economy-System nutzen.
+- Wir sammeln die Benutzer-IDs von Nutzern, die ein Embed mit unserem Bot erstellen. Zu diesem Zweck sammeln wir alle erstellten Embeds, um Missbrauch zu vermeiden.
 
 ### Wo werden die Daten gespeichert?
-Die Daten werden auf einem Lokalen Netzwerk gespeichert und können nicht von externen Abgerufen werden.
+Die Daten werden auf einem Lokalen Netzwerk gespeichert und können nicht von externen Abgerufen werden. 
 
 ### Haben sie Offene Fragen?
-Wenn ja dann können sie Diese über unseren Support-Server stellen; er ist direkt via Einladungslink (https://discord.gg/ThPf9zPTtm) erreichbar. Außerdem können Sie uns unter weiteren Kontaktmöglichkeiten ereichen
+Wenn ja dann können sie Diese über unseren Support-Server stellen; er ist direkt via Einladungslink (-) erreichbar. Außerdem können Sie uns unter weiteren Kontaktmöglichkeiten ereichen
 
 - Discord: **NONameALΞX#6344** (`958074686661603410`)
 - E-Mail: ChrisiCyberBees@gmx.net
