@@ -23,7 +23,7 @@ Die Daten werden auf einem Lokalen Netzwerk gespeichert und können nicht von ex
 ### Haben sie Offene Fragen?
 Wenn ja dann können sie Diese über unseren Support-Server stellen; er ist direkt via Einladungslink (-) erreichbar. Außerdem können Sie uns unter weiteren Kontaktmöglichkeiten ereichen
 
-- Discord: **NONameALΞX#6344** (`958074686661603410`)
+- Discord: **chrisi.cyberbees** (`891677918755946546`)
 - E-Mail: ChrisiCyberBees@gmx.net
 - Website: -
 
